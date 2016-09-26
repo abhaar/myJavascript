@@ -1,0 +1,59 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	/*
+	background-image: url("http://previews.123rf.com/images/yuliaglam/yuliaglam1307/yuliaglam130700039/20940760-silver-oriental-background-Stock-Vector.jpg");
+	*/
+	background-color: #ffffe6;
+	font-family: Times, serif;
+	font-size: 14px;
+}
+
+.header {
+	text-align: center;
+}
+
+.sidebar {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	bottom: 0px;
+}
+
+.col1 {
+	margin-top: 20px;
+	overflow: auto;
+}
+
+#info {
+	border-bottom: 1px solid;
+}
+
+h4 {
+	margin-bottom: 0px;
+}
+
+h1, h3{
+	/*color: #25AAA0;*/
+	color: #4d0099;
+	text-transform: uppercase; 
+}
+
+#address {
+	margin-bottom: 0px;
+	margin-left: 15%;
+}
+
+h4 > span, p > span {
+	float: right;
+}
+
+p > span {
+	font-style: italic;
+}
+
+p {
+	margin-bottom: 0px;
+}
