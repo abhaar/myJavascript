@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+	color: #ff8c1a;	
+	font-size: 16px;
+	font-weight: normal;
+	text-align: center;
+	text-align-last: center;
+}
+
+#name {
+	font-family: 'Great Vibes', cursive;
+}
+
+#hindi {
+	font-family: 'Amita', cursive;
+}
