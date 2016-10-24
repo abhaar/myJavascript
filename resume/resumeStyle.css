@@ -44,6 +44,7 @@ h1, h3{
 #address {
 	margin-bottom: 0px;
 	margin-left: 15%;
+	word-wrap: break-word;
 }
 
 h4 > span, p > span {
